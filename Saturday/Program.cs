@@ -4,4 +4,4 @@ Console.WriteLine("Hello, World!");
 
 string name = Console.ReadLine();
 
-Console.WriteLine($"{name} bienvenido");
+Console.WriteLine($"{name} bienvenido a github");
